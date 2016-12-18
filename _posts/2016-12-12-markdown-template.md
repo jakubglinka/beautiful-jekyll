@@ -42,7 +42,7 @@ $$ \sum_{i = 1}^n \frac{1}{i} = \infty $$
 
 Obviously since $\int_{\mathbb{R}} \frac{1}{x} dx = + \infty$.
 
-Including code
+Including custom
 --------------
 
     if (a > 3) {
