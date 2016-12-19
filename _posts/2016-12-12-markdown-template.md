@@ -38,6 +38,8 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 Including Formulas
 ------------------
 
+\\[\sum_{i = 1}^n \frac{1}{i} = \infty \\]
+
 $$ \sum_{i = 1}^n \frac{1}{i} = \infty $$
 
 Obviously since $\int_{\mathbb{R}} \frac{1}{x} dx = + \infty$.
