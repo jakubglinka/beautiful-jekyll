@@ -35,7 +35,7 @@ You can also embed plots, for example:
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
-Including Formulas
+Including Formulas2
 ------------------
 
 \\[\sum_{i = 1}^n \frac{1}{i} = \infty \\]
