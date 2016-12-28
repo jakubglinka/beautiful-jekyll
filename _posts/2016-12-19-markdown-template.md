@@ -50,3 +50,7 @@ Including custom
     if (a > 3) {
       moveShip(5 * gravity, DOWN);
     }
+    
+    
+![plot of chunk pressure](/img/me.jpg)
+
