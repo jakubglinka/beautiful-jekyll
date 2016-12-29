@@ -40,7 +40,7 @@ summary(cars)
 
 You can also embed plots, for example:
 
-![plot of chunk pressure]({{ site.url }}/img/markdown-template-pressure-1.png)
+![plot of chunk pressure]({{ site.url }}/img/2016-12-29-markdown-template-pressure-1.png)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
@@ -48,7 +48,7 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 $$ \sum_{i = 1}^n \frac{1}{i} = \infty $$
 
-Obviously since $\int_{\mathbb{R}} \frac{1}{x} dx = + \infty$.
+Obviously since $\int_{\mathbb{R}} \frac{1}{x} dx = + \infty$ as in [^1]
 
 ## Including code
 
@@ -56,11 +56,5 @@ Obviously since $\int_{\mathbb{R}} \frac{1}{x} dx = + \infty$.
       moveShip(5 * gravity, DOWN);
     }
 
-***
-References:  
 
-"Monte Awesome."   
-"Here is reference."   
-
-
-
+[^1]: Abramovitz and Steingun

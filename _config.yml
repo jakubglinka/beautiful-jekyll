@@ -33,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: “www.jakubglinka.com/img/me.jpg"
+avatar: "/img/me.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -189,6 +189,7 @@ prose:
 
 gems:
   - jekyll-paginate
+  - jekyll-feed
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
