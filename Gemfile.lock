@@ -151,8 +151,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (= 106)
-  jekyll-feed
   jekyll-paginate
+  jekyll-sitemap
 
 BUNDLED WITH
    1.13.7
