@@ -28,6 +28,7 @@ navbar-links:
     - R Project: "https://www.r-project.org/"
     - R Bloggers: "https://www.r-bloggers.com/"
     - Stan: "http://mc-stan.org/"
+  RSS: "http://feeds.feedburner.com/JakubGlinkasBlog"
     
   # Author's home: "http://deanattali.com"
 
