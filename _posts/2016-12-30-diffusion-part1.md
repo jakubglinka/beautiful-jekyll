@@ -122,10 +122,8 @@ Perfect! Sampled data distribution is indistinguishable from theoretical density
 
 ## Summary
 
-We created from scratch new sampler for shifted Gompertz distribution :) and it's fairly efficient: for one milion of sampled values it takes latter algorithm only 0.141 of a second. 
+We created from scratch new sampler for shifted Gompertz distribution :) and it's fairly efficient: for one milion of sampled values it takes latter algorithm only 0.131 of a second. 
 
-In the next post we will build Hierarchical Bayesian model of diffusion of innovation using shifted Gompertz distribution which we will later use to model app installations of one of the more popular Android apps!
- 
 Code for this post can be found here:
 <https://github.com/jakubglinka/posts/tree/master/diffusion_part1>
 
