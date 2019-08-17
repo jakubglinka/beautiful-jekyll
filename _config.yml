@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Jakub Glinka's Blog
+title: My Machine Learning Blog
 
 # Short description of your site
-description: Understanding world through statistics
+description: Opinionated blog about Machine Learning
 
 # --- Navigation bar options --- #
 
@@ -25,16 +25,14 @@ description: Understanding world through statistics
 navbar-links:
   About Me: "https://www.linkedin.com/in/jakub-glinka-23768453"
   Resources:
-    - R Project: "https://www.r-project.org/"
-    - R Bloggers: "https://www.r-bloggers.com/"
-    - Stan: "http://mc-stan.org/"
-  RSS: "http://feeds.feedburner.com/JakubGlinkasBlog"
+    - Tensorflow: "https://www.tensorflow.org"
+  RSS: "http://feeds.feedburner.com/JakubGlinkaDSBlog"
     
   # Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/me.jpg"
+avatar: "/img/me2.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
